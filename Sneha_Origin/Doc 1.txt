@@ -1,0 +1,7 @@
+DVCS:
+
+git checkout -b "Branch Name"
+git status
+git add .
+git status
+git push origin Branch Name
