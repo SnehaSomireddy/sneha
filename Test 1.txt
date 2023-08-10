@@ -1,0 +1,13 @@
+Git Hub Codes:
+
+Git Clone URL
+Git status
+git add .
+git status
+git commit -m "Message"
+git push
+
+
+
+
+clear for clearing the screen
